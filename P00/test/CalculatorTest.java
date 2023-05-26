@@ -16,7 +16,7 @@ public class CalculatorTest {
 	public static void tearDownAfterClass() throws Exception {
 	}
 
-	@Before
+	@Before 
 	public void setUp() throws Exception {
 	}
 
